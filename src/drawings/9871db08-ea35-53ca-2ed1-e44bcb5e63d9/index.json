@@ -1,0 +1,862 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 295,
+          "y": 174
+        },
+        "size": {
+          "width": 292,
+          "height": 190
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"cc02263b-1d37-9c07-40b1-f6e622dec7a7\" id=\"id5227f580-3838-a6d7-b25e-edba2e458c26\" data-type=\"term\">network</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "7caf1878-5675-aacb-5a27-c37ca5045874",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 234.26034545898438,
+          "fullString": "NETWORK 110",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NETWORK 110",
+              "width": 87.15890502929688,
+              "x": 73.55072021484375,
+              "y": 25.52737840576172
+            }
+          ],
+          "textWidth": 87.15890502929688,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c47e978e-36a9-26ea-97ce-31a4c7a67b5c",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a932a601-6794-c38b-307d-183bce24bca3\" id=\"id48b98560-e793-d8ec-cb33-21af220e4d54\" data-type=\"term\">NAT device A</span></p>",
+        "position": {
+          "x": 395,
+          "y": 469
+        },
+        "size": {
+          "width": 94,
+          "height": 62
+        },
+        "angle": 0,
+        "label": "<p>NAT</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "cc3f870b-c41f-5d62-d558-0fdbbcc63f08",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 85.78385162353516,
+          "fullString": "NAT 202",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NAT 202",
+              "width": 48.408447265625,
+              "x": 18.687702178955078,
+              "y": 17.67262109680176
+            }
+          ],
+          "textWidth": 48.408447265625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "33731fca-a58e-d225-4bf2-dfc4cfba461b",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"7c116bd1-d309-75b2-14f1-fb252b784de7\" id=\"id9a86e667-7dde-54c2-8151-556c24f496ee\" data-type=\"term\">NAT device D</span></p>",
+        "position": {
+          "x": 619,
+          "y": 470
+        },
+        "size": {
+          "width": 94,
+          "height": 62
+        },
+        "angle": 0,
+        "label": "<p>nat</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "fa6f3361-f934-a3d7-df64-58a1ef971e49",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 85.78385162353516,
+          "fullString": "NAT 204",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NAT 204",
+              "width": 48.408447265625,
+              "x": 18.687702178955078,
+              "y": 17.67262109680176
+            }
+          ],
+          "textWidth": 48.408447265625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "64dd47d8-de19-7e7a-8743-3fa2838392fe",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 59,
+          "y": 392
+        },
+        "size": {
+          "width": 113.38582992553711,
+          "height": 61.228348159790045
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"35e58556-966b-6c39-cea5-36aa3d9ba779\" id=\"idc4423c3e-bf8c-1dc5-48f8-d3c0dd6ae6e0\" data-type=\"term\">mobile device A</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "6f193281-956d-e773-c693-8f9d0f7f556b",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 103.95437622070312,
+          "fullString": "MOBILE DEVICE A 112",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MOBILE DEVICE",
+              "width": 94.00148010253906,
+              "x": 4.976448059082031,
+              "y": 6.795925787353518
+            },
+            {
+              "text": "A 112",
+              "width": 33.3018798828125,
+              "x": 35.32624816894531,
+              "y": 27.795963287353516
+            }
+          ],
+          "textWidth": 94.00148010253906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "5210fb6e-7731-5ce5-22f0-013d8e1c79e5",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"77028ebe-a386-67b3-b806-062695a7890e\" id=\"ide46f4de7-741e-79d1-6ce2-3d6869b5d4e5\" data-type=\"term\">NAT device B</span></p>",
+        "position": {
+          "x": 167,
+          "y": 236
+        },
+        "size": {
+          "width": 94,
+          "height": 62
+        },
+        "angle": 0,
+        "label": "<p>nat</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "728c7ddd-52ce-6fe9-5fe8-78db3d99d4f3",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 85.78385162353516,
+          "fullString": "NAT 206",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NAT 206",
+              "width": 48.408447265625,
+              "x": 18.687702178955078,
+              "y": 17.67262109680176
+            }
+          ],
+          "textWidth": 48.408447265625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f3dc2a0b-f474-a34e-2d0a-412accc4fdd0",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f5014f3e-e76f-1d53-d778-6134c305f527\" id=\"id8021e53a-07f5-d119-4f1e-22cf9e7228d2\" data-type=\"term\">NAT device C</span></p>",
+        "position": {
+          "x": 624,
+          "y": 237
+        },
+        "size": {
+          "width": 94,
+          "height": 62
+        },
+        "angle": 0,
+        "label": "<p>nat</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "079f3098-17d2-dc4b-77c8-33589e4560f7",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 85.78385162353516,
+          "fullString": "NAT 212",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NAT 212",
+              "width": 48.408447265625,
+              "x": 18.687702178955078,
+              "y": 17.67262109680176
+            }
+          ],
+          "textWidth": 48.408447265625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "854b2eaa-f9f5-1748-8c1f-51d7e3db5ae6",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "roundedRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 775,
+          "y": 132
+        },
+        "size": {
+          "width": 113,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"68b3713f-3cc2-dd93-a4c5-67d4c2ee1eaa\" id=\"id3615ac31-e144-ab70-b0fa-f9f5a28b8757\" data-type=\"term\">mobile device C</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "59399551-af4a-d630-bf0c-72f5a21b8e1c",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 103.60063934326172,
+          "fullString": "MOBILE DEVICE C 116",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MOBILE DEVICE",
+              "width": 94.00148010253906,
+              "x": 4.799579620361328,
+              "y": 6.23828952636719
+            },
+            {
+              "text": "C 116",
+              "width": 33.73011779785156,
+              "x": 34.93526077270508,
+              "y": 27.238327026367188
+            }
+          ],
+          "textWidth": 94.00148010253906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "ecce359b-3a16-d8d9-f17d-a7657c614091",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "x": 122,
+          "y": 459
+        },
+        "target": {
+          "id": "cc3f870b-c41f-5d62-d558-0fdbbcc63f08"
+        },
+        "id": "1a6f4120-99de-fa8d-c2de-c81cf6c8771c",
+        "embeds": "",
+        "z": 6,
+        "routing": "curved",
+        "objectID": "a382f312-1330-a238-7437-8158c0c9c969",
+        "vertices": [
+          {
+            "x": 263,
+            "y": 500
+          }
+        ],
+        "number": null,
+        "label": "<p><span data-role=\"tag\" data-value=\"2d0d7ddc-7bcc-1591-2715-9b522c155f36\" id=\"ide33dbaec-0727-0560-e78f-c3867376ce3d\" data-type=\"term\">communication link A</span></p>",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "id": "728c7ddd-52ce-6fe9-5fe8-78db3d99d4f3"
+        },
+        "target": {
+          "id": "6f193281-956d-e773-c693-8f9d0f7f556b"
+        },
+        "id": "fa0d1822-b6be-1cee-72f6-0a3e362dc56e",
+        "embeds": "",
+        "z": 7,
+        "routing": "curved",
+        "objectID": "2f7407ed-e475-ef0e-a26d-cbcd7a1e8369",
+        "vertices": [
+          {
+            "x": 91,
+            "y": 322
+          }
+        ],
+        "number": null,
+        "label": "<p><span data-role=\"tag\" data-value=\"66418817-d995-58ee-ef5e-22fef8dd2bda\" id=\"idbbed29df-67c3-7e34-478e-abc55d4218a3\" data-type=\"term\">communication link B</span></p>",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "728c7ddd-52ce-6fe9-5fe8-78db3d99d4f3"
+        },
+        "target": {
+          "id": "7caf1878-5675-aacb-5a27-c37ca5045874"
+        },
+        "id": "06784ed9-a14a-3989-7c18-7384411317f5",
+        "embeds": "",
+        "z": 8,
+        "routing": "curved",
+        "objectID": "57f039ca-5e8b-fa34-44bd-9ed348d6e8fa",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "cc3f870b-c41f-5d62-d558-0fdbbcc63f08"
+        },
+        "target": {
+          "x": 444,
+          "y": 354
+        },
+        "id": "aa42cda2-ccfc-e277-7000-929310017eb6",
+        "embeds": "",
+        "z": 9,
+        "routing": "straight",
+        "objectID": "8760aa43-472b-019a-4dde-ef0a3eb4214c",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "x": 440,
+          "y": 190
+        },
+        "target": {
+          "x": 441,
+          "y": 98
+        },
+        "id": "4154659f-0c96-5c42-0bd6-ce1d0bdd0ec6",
+        "embeds": "",
+        "z": 10,
+        "routing": "straight",
+        "objectID": "8daa7fb0-5e16-393b-bebf-05d9700b22a1",
+        "label": "<p><span data-role=\"tag\" data-value=\"c3607ed4-6382-3942-1f46-5230e940acc1\" id=\"ide5938e57-8875-c621-5c13-a89086ee0642\" data-type=\"term\">communication link F</span></p>",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "079f3098-17d2-dc4b-77c8-33589e4560f7"
+        },
+        "target": {
+          "id": "7caf1878-5675-aacb-5a27-c37ca5045874"
+        },
+        "id": "4384df78-2231-f476-cc66-dc61474b5a2b",
+        "embeds": "",
+        "z": 11,
+        "routing": "straight",
+        "objectID": "e8c807fb-d7ee-286f-19fe-900bdcd73c31",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "id": "079f3098-17d2-dc4b-77c8-33589e4560f7"
+        },
+        "target": {
+          "x": 818,
+          "y": 194
+        },
+        "id": "c8a3c42c-559b-49d7-43c0-fe4af706d87f",
+        "embeds": "",
+        "z": 12,
+        "routing": "curved",
+        "objectID": "24dba159-33f4-1f21-fea5-4d77c8627412",
+        "number": null,
+        "label": "<p><span data-role=\"tag\" data-value=\"38366d1c-f0bf-9d85-c9de-a83816cc0c29\" id=\"ida0482e43-bea1-91a4-3b4b-8e1e14ff4413\" data-type=\"term\">communication link C</span></p>",
+        "vertices": [
+          {
+            "x": 790,
+            "y": 236
+          }
+        ],
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "x": 822,
+          "y": 128
+        },
+        "target": {
+          "x": 775,
+          "y": 55
+        },
+        "id": "df8a618a-eb59-4692-2f24-7e3c174c6f07",
+        "embeds": "",
+        "z": 13,
+        "routing": "curved",
+        "objectID": "d5ef9dc2-cc31-5cb9-9502-37151e5ef9f4",
+        "vertices": [
+          {
+            "x": 809,
+            "y": 67
+          }
+        ],
+        "number": null,
+        "label": "<p><span data-role=\"tag\" data-value=\"f9e051e6-e446-021d-8ec5-258b71779144\" id=\"ide7dfdd84-e9b0-6e22-49f8-a0461bfe77c2\" data-type=\"term\">communication link E</span></p>",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": " ",
+        "position": {
+          "x": 247,
+          "y": 536
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"2d0d7ddc-7bcc-1591-2715-9b522c155f36\" id=\"ide33dbaec-0727-0560-e78f-c3867376ce3d\" data-type=\"term\">communication link A</span></p>",
+        "strokeStyle": "none",
+        "labelPosition": "only",
+        "leadLinePosition": "position12",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "cd8b1b68-74dc-4879-a06d-7e13b5f8b2b4",
+        "z": 14,
+        "objectID": "cc9070b5-5da6-65ee-10be-796bb09ec8e4",
+        "number": 8,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": " ",
+        "position": {
+          "x": 37,
+          "y": 269
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"66418817-d995-58ee-ef5e-22fef8dd2bda\" id=\"idbbed29df-67c3-7e34-478e-abc55d4218a3\" data-type=\"term\">communication link B</span></p>",
+        "strokeStyle": "none",
+        "labelPosition": "only",
+        "leadLinePosition": "position5",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "a5e89e10-2692-4c72-9b2e-c36126760b68",
+        "z": 15,
+        "objectID": "0b04070a-4344-5935-4fe8-d79e2ac33f56",
+        "number": 10,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 393,
+          "y": 29
+        },
+        "size": {
+          "width": 103.71896273235254,
+          "height": 65.86153950307215
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"07f5a024-4cae-651a-5228-5a30f1ee8ebe\" id=\"id8f8a9d0d-6ee3-beba-6283-1caea1277dbd\" data-type=\"term\">mobile device B</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "a17d22cf-bed0-4222-97ce-a56a18c75b3b",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 94.6533203125,
+          "fullString": "MOBILE DEVICE B 114",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MOBILE DEVICE",
+              "width": 94.00148010253906,
+              "x": 0.32592010498046875,
+              "y": 8.92727535095215
+            },
+            {
+              "text": "B 114",
+              "width": 34.15834045410156,
+              "x": 30.24748992919922,
+              "y": 29.92731285095215
+            }
+          ],
+          "textWidth": 94.00148010253906,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "22d2ba1c-e9f3-a5eb-ed66-07213efa528a",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": " ",
+        "position": {
+          "x": 811,
+          "y": 274
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"38366d1c-f0bf-9d85-c9de-a83816cc0c29\" id=\"ida0482e43-bea1-91a4-3b4b-8e1e14ff4413\" data-type=\"term\">communication link C</span></p>",
+        "strokeStyle": "none",
+        "labelPosition": "only",
+        "leadLinePosition": "position12",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "674e7b75-1c55-4dc5-a2c4-a2c52e9546db",
+        "z": 17,
+        "objectID": "2fa0fe81-4748-0236-2343-29828754d06e",
+        "number": 14,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 587,
+          "y": 0
+        },
+        "size": {
+          "width": 177.91210679560547,
+          "height": 111.12491213100908
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"8f8cb895-d0cb-6c94-4ec0-e882e8f4003f\" id=\"id81de98c6-a14d-5fc3-5645-e00e68cd1a6e\" data-type=\"term\">private network</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "aabf75cf-1ae9-4bdc-85c9-9336539891d6",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 142.73202514648438,
+          "fullString": "PRIVATE NETWORK 302",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PRIVATE NETWORK",
+              "width": 110.45652770996094,
+              "x": 16.13774871826172,
+              "y": 0.07123821105957262
+            },
+            {
+              "text": "302",
+              "width": 22.386520385742188,
+              "x": 60.172752380371094,
+              "y": 21.07127571105957
+            }
+          ],
+          "textWidth": 110.45652770996094,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "7c7df004-7648-e086-9010-152209cff75e",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"f9e051e6-e446-021d-8ec5-258b71779144\" id=\"ide96d7640-0b02-23d8-5d21-684aab3a38a8\" data-type=\"term\">communication link E</span></p>",
+        "position": {
+          "x": 846,
+          "y": 28
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position9",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "c28e39fc-1438-416b-902a-9dc34c242f06",
+        "z": 19,
+        "objectID": "afd84d30-3390-e7a0-3ec1-4f33d0bc2053",
+        "number": 4,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "aabf75cf-1ae9-4bdc-85c9-9336539891d6"
+        },
+        "target": {
+          "x": 496,
+          "y": 62
+        },
+        "id": "6d52a055-0041-4ada-a36e-a8de696d94ea",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "79ade2a2-118b-f230-b1db-3d5db417c806",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "fa6f3361-f934-a3d7-df64-58a1ef971e49"
+        },
+        "target": {
+          "id": "7caf1878-5675-aacb-5a27-c37ca5045874"
+        },
+        "id": "b8fccafa-60b8-42e6-bf00-4a82db999226",
+        "embeds": "",
+        "z": 21,
+        "routing": "straight",
+        "objectID": "32fc9f76-4820-4567-c685-43802fcb7ce2",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": false,
+        "source": {
+          "id": "fa6f3361-f934-a3d7-df64-58a1ef971e49"
+        },
+        "target": {
+          "id": "59399551-af4a-d630-bf0c-72f5a21b8e1c"
+        },
+        "id": "00c79852-eae2-4666-94ad-ad048459c235",
+        "embeds": "",
+        "z": 22,
+        "routing": "curved",
+        "objectID": "535e70f0-9bfe-5b98-30b1-b49ddcc1ef0b",
+        "vertices": [
+          {
+            "x": 859,
+            "y": 406
+          }
+        ],
+        "label": "<p><span data-role=\"tag\" data-value=\"b04fbdfc-c4f9-9986-6e4f-45c91b4684ab\" id=\"id5ac13e53-b42c-238b-b88b-8229a9cb6c36\" data-type=\"term\">communication link D</span></p>",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": " ",
+        "position": {
+          "x": 836,
+          "y": 469
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"b04fbdfc-c4f9-9986-6e4f-45c91b4684ab\" id=\"idf8872e8d-026d-f391-ea7f-1f67290b5218\" data-type=\"term\">communication link D</span></p>",
+        "strokeStyle": "none",
+        "labelPosition": "only",
+        "leadLinePosition": "position11",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "d16c01dd-4a02-4bf1-b140-bf8524c2eab6",
+        "z": 23,
+        "objectID": "71db8f71-a7e4-8dfc-72f0-855f6900ddb6",
+        "number": 16,
+        "showLeadLine": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"c3607ed4-6382-3942-1f46-5230e940acc1\" id=\"id8ddde3bc-a3e8-cda5-c538-43db3986befb\" data-type=\"term\">communication link F</span></p>",
+        "position": {
+          "x": 371,
+          "y": 116
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position4",
+        "routing": "curved",
+        "arrowheads": "both",
+        "id": "39f49676-b029-49f8-87e5-02410267597c",
+        "z": 24,
+        "objectID": "6b9e1d8f-247e-8858-f8e4-2161400c3b01",
+        "number": 6,
+        "showLeadLine": true
+      }
+    ]
+  }
+}
